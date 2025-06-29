@@ -6,11 +6,10 @@
 ## 💫 About Me
 
 - 🔭 I’m currently working on: *Web Development Projects and Core Java*
-- 🌱 I’m currently learning: *Data Structures, Python, and Full Stack Technologies*
+- 🌱 I’m currently learning: *Data Structures and Full Stack Technologies*
 - 👯 I’m looking to collaborate on: *Open Source Projects & Tech Events*
 - 💬 Ask me about: *Java, HTML, Python, or basic DSA*
-- 📫 Reach me via: *[LinkedIn](https://www.linkedin.com/in/your-link)* (← replace this with your actual link)
-- ⚡ Fun fact: I learn best when I teach others 🤝
+- 📫 Reach me via: *[LinkedIn](https://www.linkedin.com/in/dhanusri1608/)* (← replace this with your actual link)
 
 ---
 
@@ -69,17 +68,9 @@
 ## 👥 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhanusri1608/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="dhanusriii.1608@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/DHANUSRI1608"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
-
-## 👁 Visitor Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DHANUSRI1608&icon=0&color=0" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
