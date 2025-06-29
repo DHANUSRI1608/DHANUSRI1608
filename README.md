@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning: *Data Structures and Full Stack Technologies*
 - 👯 I’m looking to collaborate on: *Open Source Projects & Tech Events*
 - 💬 Ask me about: *Java, HTML, Python, or basic DSA*
-- 📫 Reach me via: *[LinkedIn](https://www.linkedin.com/in/dhanusri1608/)* (← replace this with your actual link)
+- 📫 Reach me via: *[LinkedIn](https://www.linkedin.com/in/dhanusri1608/)*
 
 ---
 
