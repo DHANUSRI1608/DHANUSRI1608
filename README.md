@@ -1,26 +1,37 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px">
+</p>
 
-![Header Image]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4641157f-c34a-4876-9d1c-1411634b173d" />
+---
+<p align="center" dir="auto">
+  🔭 Currently working on FullStack Projects and DSA><br>
+  🌱 Constantly learning and evolving<br>
+  💬 Ask me about SpringBoot, Algos, or anything techy<br>
+  📫 Reach me at: <a href="dhanusriii.1608@gmail.com">dhanusriii.1608@gmail.com</a><br>
+  🌐 LinkedIn: <a href="https://www.linkedin.com/in/dhanusri1608/">https://www.linkedin.com/in/dhanusri1608/</a>
+</p>
 
-                 🛠️ Currently working on FullStack Projects and DSA
-                        🌱 Constantly learning and evolving
-                💬 Ask me about **SpringBoot, Algos, or anything techy**
-                    📫 Reach me at: dhanusriii.1608@gmail.com
-                    🌐 LinkedIn : https://www.linkedin.com/in/dhanusri1608/
+---
 
-### 🛠️ Languages & Tools I Work With
-[![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)]()
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)]()
-[![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwind-css)]()
-[![Supabase](https://img.shields.io/badge/-Supabase-blue?style=flat-square&logo=supabase)]()
-[![NPM](https://img.shields.io/badge/-NPM-red?style=flat-square&logo=npm)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)]()
-[![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)]()
-[![YAML](https://img.shields.io/badge/-YAML-blueviolet?style=flat-square&logo=yaml)]()
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)]()
-[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?style=flat-square&logo=spring)]()
-[![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)]()
+<h3 align="center" class="heading-element" dir="auto">🛠️ Languages &amp; Tools I Work With:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/-Supabase-blue?style=flat-square&logo=supabase"/>
+  <img src="https://img.shields.io/badge/-NPM-red?style=flat-square&logo=npm"/>
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/-YAML-blueviolet?style=flat-square&logo=yaml"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/-Spring_Boot-green?style=flat-square&logo=spring"/>
+  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql"/>
+</p>
 
-<img width="400" height="50" alt="image" src="https://github.com/user-attachments/assets/088c9963-f2ae-4d6b-8370-b6c67a53662b" />
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&lines=Keep+Building.;Keep+Improving..;Keep+Leveling+Up+💪" alt="Keep Building, Improving, Leveling Up">
+</p>
