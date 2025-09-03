@@ -4,7 +4,7 @@
 
 ---
 <p align="center" dir="auto">
-  🔭 Currently working on FullStack Projects and DSA><br>
+  🔭 Currently working on FullStack Projects and DSA<br>
   🌱 Constantly learning and evolving<br>
   💬 Ask me about SpringBoot, Algos, or anything techy<br>
   📫 Reach me at: <a href="dhanusriii.1608@gmail.com">dhanusriii.1608@gmail.com</a><br>
