@@ -7,7 +7,7 @@
   🔭 Currently working on FullStack Projects and DSA<br>
   🌱 Constantly learning and evolving<br>
   💬 Ask me about SpringBoot, Algos, or anything techy<br>
-  📫📫 Reach me at: <a href="mailto:dhanusriii.1608@gmail.com">dhanusriii.1608@gmail.com</a><br>
+  📫 Reach me at: <a href="mailto:dhanusriii.1608@gmail.com">dhanusriii.1608@gmail.com</a><br>
   🌐 LinkedIn: <a href="https://www.linkedin.com/in/dhanusri1608/">https://www.linkedin.com/in/dhanusri1608/</a>
 </p>
 
